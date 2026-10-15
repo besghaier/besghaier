@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi 👋, I'm Mohamed Besghaier
 
 ### Computer Science Student
@@ -23,3 +24,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=besghaier&show_icons=true&locale=en" alt="besghaier" /></p>
 
+=======
+## Hi there 👋
+
+<!--
+**besghaier/besghaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> a3f44b58da6b86e4218007b5b396319516011ee1
