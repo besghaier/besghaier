@@ -2,7 +2,7 @@
 
 # Mohamed Besghaier
 
-**Computer Science Student · Sorbonne Université**
+**Computer Science Student · Sorbonne University**
 
 Web Security · Penetration Testing · Software Development
 
