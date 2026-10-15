@@ -2,7 +2,7 @@
 
 # Mohamed Besghaier
 
-**Computer Science Student · Sorbonne University**
+**Computer Science Student · Sorbonne Université**
 
 Web Security · Penetration Testing · Software Development
 
@@ -12,14 +12,21 @@ Web Security · Penetration Testing · Software Development
 
 ---
 
-### About Me
+<div align="center">
 
-- Currently working on cybersecurity labs and personal projects.
-- Currently learning web application security and penetration testing.
+## About Me
 
-### Languages and Tools
+</div>
+
+Currently working on cybersecurity labs and personal projects.
+
+Currently learning web application security and penetration testing.
+
+---
 
 <div align="center">
+
+## Languages and Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,html,js,ts,react,nodejs,express,git,sqlite" alt="Linux, Bash, Python, C, C++, HTML, JavaScript, TypeScript, React, Node.js, Express, Git, SQLite" />
@@ -29,9 +36,9 @@ Web Security · Penetration Testing · Software Development
 
 ---
 
-### GitHub Statistics
-
 <div align="center">
+
+## GitHub Statistics
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=besghaier&show_icons=true&hide_border=true" alt="GitHub statistics" />
 
