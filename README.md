@@ -16,11 +16,11 @@ Web Security · Penetration Testing · Software Development
 
 ## About Me
 
-</div>
-
 Currently working on cybersecurity labs and personal projects.
 
 Currently learning web application security and penetration testing.
+
+</div>
 
 ---
 
