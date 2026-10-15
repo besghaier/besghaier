@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hi 👋, I'm Mohamed Besghaier
 
 ### Computer Science Student
