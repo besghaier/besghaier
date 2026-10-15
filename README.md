@@ -1,12 +1,12 @@
-# Hi 👋, I'm Mohamed Besghaier
+# Hi , I'm Mohamed Besghaier
 
 ### Computer Science Student
 
-- 🔭 I'm currently working on **Cybersecurity labs and personal projects**
+- I'm currently working on **Cybersecurity labs and personal projects**
 
-- 🌱 I'm currently learning **Web security and penetration testing**
+- I'm currently learning **Web security and penetration testing**
 
-- 📫 How to reach me **contact@besghaier.com**
+- How to reach me **contact@besghaier.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
